@@ -1,0 +1,2 @@
+This file will be used as the text
+in the body of the email.
