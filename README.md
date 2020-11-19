@@ -1,4 +1,4 @@
-# gmailapi-project
+# gmailapi-python
 
 ## Author
 
